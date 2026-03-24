@@ -143,17 +143,20 @@ John's inventory is not one of those situations. John is learning this the hard 
 
 ---
 
-## The Pesterlog
-
-What this might look like if John talked about it:
-
 > **EB: ok so i just launched my only weapon into the void because i wanted to check my messages.**
+
 > **EB: this is fine.**
+
 > **EB: the inventory system where you can only grab the last thing you touched is very cool and not at all a nightmare to live with.**
+
 > **EB: who designed this? who sat down and said "what if you could never get the thing you actually want?"**
+
 > **EB: oh wait.**
+
 > **EB: apparently the answer is "computer scientists."**
+
 > **EB: they call it LIFO. last in first out.**
+
 > **EB: i call it LINO. last in, never out, because everything i need is always at the bottom.**
 
 ---
