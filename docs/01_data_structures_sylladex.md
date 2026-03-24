@@ -18,6 +18,8 @@ This is not a coincidence. Andrew Hussie was a programmer before he made this co
 
 **The CS term:** Stack. LIFO (Last In, First Out). Common in how programs manage function calls. When you call a function inside a function inside another function, the computer stacks those calls and unwinds them in reverse order.
 
+> **See it in action:** [John vs. The Stack: A Tragedy in Several Ejects](examples/01a_john_vs_the_stack.md) — A step-by-step walkthrough of John destroying his bedroom to get his PDA, with the exact push/pop operations written out.
+
 ---
 
 ## Queue
@@ -58,6 +60,8 @@ This is not a coincidence. Andrew Hussie was a programmer before he made this co
 
 **The CS term:** Binary Search Tree (BST). The rule Rose uses is alphabetical ordering, which is a valid BST comparator.
 
+> **See it in action:** [Rose's Binary Tree: An Elegant Disaster](examples/01c_roses_tree_pruning.md) — Rose builds a perfectly sorted inventory, then removes a non-leaf node and watches half her items launch through a wall. Includes the balance problem and what happens when you remove the root.
+
 ---
 
 ## Hash Map
@@ -73,6 +77,8 @@ This is not a coincidence. Andrew Hussie was a programmer before he made this co
 **Concrete example:** You have ten lockers numbered 0 to 9. Your locker rule is: count the letters in an item's name, mod 10, that is your locker. "Pen" has 3 letters, so it goes in locker 3. "Cup" also has 3 letters. Collision. One of them gets pushed out. Dave lives this daily.
 
 **The CS term:** Hash Map (also called Hash Table). The process of converting a key into an index is hashing. The leftover from division is the modulo operation.
+
+> **See it in action:** [Dave's Hash Map: A Guided Tour of Saying the Wrong Thing](examples/01b_daves_hash_hell.md) — Worked examples of hashing "ninja sword" and "stop" to the same slot, the birthday problem math on why collisions are inevitable, and Dave's commentary on living with a weapon-dispensing inventory.
 
 ---
 

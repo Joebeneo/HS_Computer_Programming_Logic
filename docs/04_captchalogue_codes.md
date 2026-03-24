@@ -47,3 +47,9 @@ The practical result is that the more you chain combinations together, the close
 The comic raises the issue directly through John. There are infinite universes, and codes are transferable across sessions. But the total code space is 281 trillion. At some point, across all sessions in all universes, every possible code gets used.
 
 This is a real CS problem called address space exhaustion. IPv4 addresses (32-bit) ran out. IPv6 (128-bit) was created to buy more time. The captchalogue code system is running a 48-bit address space with no upgrade path.
+
+---
+
+## Worked Examples
+
+> **See it in action:** [The Code Space Expedition: 281 Trillion Items and Counting](examples/04a_code_space_expedition.md) — How long it takes to exhaust the code space, the birthday problem applied to code collisions, exact decay math for AND and OR chains, a full base-64 encoding breakdown, and the all-zeros/all-ones dud wall problem.

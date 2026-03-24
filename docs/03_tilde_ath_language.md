@@ -100,3 +100,9 @@ An esoteric programming language (esolang) is a language designed to explore the
 - Only one command that actually executes anything (`EXECUTE`), and it can only appear at the end of a loop
 
 It is philosophically consistent and computationally absurd.
+
+---
+
+## Worked Examples
+
+> **See it in action:** [Sollux's ~ATH Code Review](examples/03a_sollux_code_review.md) — Line-by-line breakdowns of three ~ATH programs (the universe bomb, Karkat's rage loop, and Sollux's bifurcation bomb), pseudocode translations, character impressions of Sollux and Karkat trying to explain the language, and a destructor comparison table.
