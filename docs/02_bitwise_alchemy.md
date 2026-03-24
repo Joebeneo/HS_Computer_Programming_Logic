@@ -58,3 +58,9 @@ Everything from both inputs survives. Nothing gets filtered out. The result is m
 ## Why This Matters Beyond the Comic
 
 AND and OR are the two most basic logic gates in digital electronics and programming. Every conditional in every program you have ever run boils down to some variation of these. The fact that Homestuck uses them as the literal mechanic for combining objects is a very deliberate design choice. You are not just merging two things. You are performing logic on their binary representations to produce a new value.
+
+---
+
+## Worked Examples
+
+> **See it in action:** [The Alchemy Workshop: Bitwise Fusion in Practice](examples/02a_alchemy_workshop.md) — Full worked examples of AND and OR on 8-bit codes, the AND decay chain and OR saturation problem with exact math, visual punch-card demonstrations, and why chaining more than 2-3 combinations deep produces guaranteed duds.
