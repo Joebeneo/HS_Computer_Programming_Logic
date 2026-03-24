@@ -12,7 +12,7 @@ This is not a coincidence. Andrew Hussie was a programmer before he made this co
 
 **Who uses it:** John Egbert, as his default modus at the start of the comic.
 
-**What happens in the comic:** John captchalogues a bunch of items and immediately cannot get to the ones he put in first. He has to eject everything off the top to reach what he actually wants. This is not poor game design. That is exactly how a stack behaves.
+**What happens in the comic:** John captchalogues a bunch of items and immediately cannot get to the ones he put in first. He has to eject everything off the top to reach what he actually wants. 
 
 **Concrete example:** Imagine you are loading plates into a narrow cabinet one by one. You can only ever grab the plate you put in most recently. The plate at the bottom is stuck until you remove every single plate above it. John's hammer is that bottom plate.
 
